@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--焦点-->
+    <declare-styleable name="FocusView">
+        <attr name="FocusType" format="enum">
+            <enum name="POSTER" value="0"/>
+            <enum name="NORMAL" value="1"/>
+            <enum name="TEXT" value="2"/>
+            <enum name="ICON" value="3"/>
+            <enum name="TAB_VIEW" value="4"/>
+            <enum name="NONE" value="5"/>
+            <enum name="CUSTOM" value="6"/>
+        </attr>
+        <attr name="FocusResource" format="reference"/>
+    </declare-styleable>
+</resources>

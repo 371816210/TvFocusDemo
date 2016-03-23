@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pengyuntao/IdeaProjects/tvFocus/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/pengyuntao/IdeaProjects/tvFocus/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-d929296e157c78ac88909343f619387a2382af77.jar" />
+    </item>
+    <item
+        jar="/Users/pengyuntao/IdeaProjects/tvFocus/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/pengyuntao/IdeaProjects/tvFocus/app/build/intermediates/pre-dexed/debug/classes-6dce2bcf80a3c19af70a49f805ac5ed9e4321559.jar" />
+    </item>
+    <item
+        jar="/Users/pengyuntao/IdeaProjects/tvFocus/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/pengyuntao/IdeaProjects/tvFocus/app/build/intermediates/pre-dexed/debug/classes-34235e449494ab86ae2c50f91fb7ce491d5cf808.jar" />
+    </item>
+    <item
+        jar="/Users/pengyuntao/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/pengyuntao/IdeaProjects/tvFocus/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-129fd4aec5b7cc2ffb7ca89bfd027be576b989bd.jar" />
+    </item>
+
+</items>
