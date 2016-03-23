@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="focus_type" type="id"/>
+    <item name="focus_resource" type="id"/>
+
+</resources>
